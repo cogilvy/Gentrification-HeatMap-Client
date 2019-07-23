@@ -42,7 +42,7 @@ Please read [CONTRIBUTING.md](https://github.com/sylwiavargas/Gentrification-Map
 ## Authors
 
 * **Chris Ogilvy** 
-* **Sylwia Vargas** - *Initial work*
+* **Sylwia Vargas**
 
 ## License
 
